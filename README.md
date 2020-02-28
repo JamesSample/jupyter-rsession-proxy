@@ -23,11 +23,8 @@ Install the library:
 pip install jupyter-rsession-proxy
 ```
 
-## Example
+The Dockerfile contains an example installation on top of [jupyter/r-notebook](https://github.com/jupyter/docker-stacks/tree/master/r-notebook).
 
-[rocker/binder](https://hub.docker.com/r/rocker/binder) contains an example installation which you can run on binder.
-
-[![Launch binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rocker-org/binder/master?urlpath=rstudio)
 
 ### Multiuser Considerations
 
